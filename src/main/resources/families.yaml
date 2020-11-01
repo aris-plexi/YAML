@@ -1,0 +1,9 @@
+---
+families:
+- parents:
+  - "Homer"
+  - "Marge"
+  children:
+  - "Bart"
+  - "Lisa"
+  - "Maggie"
